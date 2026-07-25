@@ -50,7 +50,7 @@ By default, WSL2 does not have direct access to physical USB hardware. Use `usbi
 
 ```powershell
 winget install wingetcreate
-winget install rpsecu.usbipd-win
+winget install usbipd
 ```
 
 *(Restart after installation if necessary.)*
